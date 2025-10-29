@@ -29,7 +29,7 @@ Bem-vindo(a)! Este repositório reúne atividades práticas. Para trabalhar nela
 ## 🧪 Atividades
 Você deverá **importar as bases de dados e o notebook** contidos neste repositório no **Databricks** para realizar as atividades por lá.
 
-- **Semana 1**: disponibilizaremos a **Atividade 01** (prazo de submissão **até 05/11 às 23h59**).
+- **Dia 30/10**: disponibilizaremos a **Atividade 01** (prazo de submissão **até 05/11 às 23h59**).
 - **Dia 06/11**: disponibilizaremos a **Atividade 02** (prazo de submissão **até 12/11 às 23h59**).
 - **Dia 13/11**: disponibilizaremos a **Atividade 03** (prazo de submissão **até 19/11 às 23h59**).
 
