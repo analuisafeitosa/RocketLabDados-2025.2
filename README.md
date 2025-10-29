@@ -3,8 +3,7 @@ Repositório Dedicado para Disponibilização das Atividades do Programa Rocket 
 
 ## 🚀 Atividades de Dados – Fork, Download e Execução
 
-Bem-vindo(a)! Este repositório reúne atividades práticas. Para trabalhar nelas, **faça um fork** deste repositório e, a partir do seu fork, **baixe/clone os materiais** para executar no ambiente de sua preferência (ex.: Databricks, local, etc.).
-
+Bem-vindo(a)! Este repositório reúne atividades práticas. Para utilizá-las, faça um fork deste repositório, baixe/clone os materiais a partir do seu fork e importe-os no Databricks para executar as tarefas no ambiente
 > **Importante:** o foco aqui é somente em fork/clone e execução. **Não é necessário** abrir Pull Request para o repositório original.
 
 ---
