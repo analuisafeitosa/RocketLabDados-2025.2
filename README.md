@@ -9,7 +9,7 @@ Bem-vindo(a)! Este repositório reúne atividades práticas. Para trabalhar nela
 
 ---
 
-## 🧭 Etapa 1 — Estrutura do Repositório
+## 🧭 Estrutura do Repositório
 
 - O repositório terá, na estrutura, **uma pasta para cada atividade**, contendo todas as informações necessárias para sua realização (**notebook, datasets, etc.**).
 - A pasta **`Atividade01 - Pyspark/dados/`** contém os **datasets** necessários para a Atividade 01.
